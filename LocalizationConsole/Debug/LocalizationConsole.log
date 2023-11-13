@@ -1,0 +1,16 @@
+﻿Build started 02/09/2016 10:47:18 ص.
+     1>Project "E:\5th Year Project\Localization\LocalizationConsole\LocalizationConsole.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\MobileRobots\Aria\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Kalman.cpp Source.cpp
+         Source.cpp
+         Kalman.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\5th Year Project\Localization\Debug\LocalizationConsole.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\MobileRobots\Aria\lib" AriaDebugVC12.lib advapi32.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\5th Year Project\Localization\Debug\LocalizationConsole.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\5th Year Project\Localization\Debug\LocalizationConsole.lib" /MACHINE:X86 Debug\Kalman.obj
+         Debug\Source.obj
+         LocalizationConsole.vcxproj -> E:\5th Year Project\Localization\Debug\LocalizationConsole.exe
+     1>Done Building Project "E:\5th Year Project\Localization\LocalizationConsole\LocalizationConsole.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09

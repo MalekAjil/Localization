@@ -1,0 +1,489 @@
+Robot Positioning Correction System
+
+TcpConnect:l=180.00
+TcpConnect: Pos_0=(0.00,0.00,0.00), Trans. Vel=0.00, Battery=13.00V
+ Turn : Target: 0.00 deg at Speed : 15.00 deg /s
+ myTeta : 0.00 deg at Speed : 0.00 deg /s
+ Theta_0 =0.00   uTheata=0.00
+Go forward : 1500.00  at Speed : 200.00 mm/s
+myX = 0.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 0.00  LeftVel= 0.00 , Vel= 0.00 RotVel= 0.00 
+ dist0 = 0.00 , target = 1500.00 
+s2=0.00 , s3=656.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=0.00 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =0.00 ,Yk =0.00
+myX = 0.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 0.00  LeftVel= 0.00 , Vel= 0.00 RotVel= 0.00 
+ dist0 = 0.00 , target = 1500.00 
+s2=655.00 , s3=655.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=0.98 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =0.97 ,Yk =0.00
+myX = 0.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 0.00  LeftVel= 0.00 , Vel= 0.00 RotVel= 0.00 
+ dist0 = 0.00 , target = 1500.00 
+s2=655.00 , s3=655.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=0.98 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =0.97 ,Yk =0.00
+myX = 0.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 5.00  LeftVel= 5.00 , Vel= 5.00 RotVel= 0.00 
+ dist0 = 0.00 , target = 1500.00 
+s2=655.00 , s3=655.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=0.98 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =0.97 ,Yk =0.00
+myX = 1.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 5.00  LeftVel= 5.00 , Vel= 5.00 RotVel= 0.00 
+ dist0 = 1.00 , target = 1500.00 
+s2=655.00 , s3=654.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=1.96 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =1.95 ,Yk =0.00
+myX = 2.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 5.00  LeftVel= 5.00 , Vel= 5.00 RotVel= 0.00 
+ dist0 = 2.00 , target = 1500.00 
+s2=654.00 , s3=654.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=1.96 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =1.95 ,Yk =0.00
+myX = 2.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 5.00  LeftVel= 5.00 , Vel= 5.00 RotVel= 0.00 
+ dist0 = 2.00 , target = 1500.00 
+s2=654.00 , s3=653.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=2.93 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =2.93 ,Yk =0.00
+myX = 3.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 5.00  LeftVel= 5.00 , Vel= 5.00 RotVel= 0.00 
+ dist0 = 3.00 , target = 1500.00 
+s2=653.00 , s3=653.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=2.93 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =2.93 ,Yk =0.00
+myX = 3.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 6.00  LeftVel= 6.00 , Vel= 6.00 RotVel= 0.00 
+ dist0 = 3.00 , target = 1500.00 
+s2=653.00 , s3=652.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=3.91 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =3.90 ,Yk =0.00
+myX = 4.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 6.00  LeftVel= 6.00 , Vel= 6.00 RotVel= 0.00 
+ dist0 = 4.00 , target = 1500.00 
+s2=652.00 , s3=651.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=4.89 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =4.88 ,Yk =0.00
+myX = 4.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 6.00  LeftVel= 6.00 , Vel= 6.00 RotVel= 0.00 
+ dist0 = 4.00 , target = 1500.00 
+s2=651.00 , s3=651.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=4.89 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =4.88 ,Yk =0.00
+myX = 5.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 7.00  LeftVel= 7.00 , Vel= 7.00 RotVel= 0.00 
+ dist0 = 5.00 , target = 1500.00 
+s2=651.00 , s3=650.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=5.87 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =5.86 ,Yk =0.00
+myX = 6.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 7.00  LeftVel= 7.00 , Vel= 7.00 RotVel= 0.00 
+ dist0 = 6.00 , target = 1500.00 
+s2=650.00 , s3=650.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=5.87 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =5.87 ,Yk =0.00
+myX = 7.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 8.00  LeftVel= 8.00 , Vel= 8.00 RotVel= 0.00 
+ dist0 = 7.00 , target = 1500.00 
+s2=649.00 , s3=649.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=6.85 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =6.84 ,Yk =0.00
+myX = 7.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 8.00  LeftVel= 8.00 , Vel= 8.00 RotVel= 0.00 
+ dist0 = 7.00 , target = 1500.00 
+s2=649.00 , s3=648.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=7.83 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =7.82 ,Yk =0.00
+myX = 8.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 8.00  LeftVel= 8.00 , Vel= 8.00 RotVel= 0.00 
+ dist0 = 8.00 , target = 1500.00 
+s2=648.00 , s3=647.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=8.80 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =8.80 ,Yk =0.00
+myX = 9.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 9.00  LeftVel= 9.00 , Vel= 9.00 RotVel= 0.00 
+ dist0 = 9.00 , target = 1500.00 
+s2=647.00 , s3=646.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=9.78 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =9.77 ,Yk =0.00
+myX = 10.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 10.00  LeftVel= 10.00 , Vel= 10.00 RotVel= 0.00 
+ dist0 = 10.00 , target = 1500.00 
+s2=646.00 , s3=645.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=10.76 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =10.75 ,Yk =0.00
+myX = 11.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 10.00  LeftVel= 10.00 , Vel= 10.00 RotVel= 0.00 
+ dist0 = 11.00 , target = 1500.00 
+s2=645.00 , s3=644.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=11.74 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =11.73 ,Yk =0.00
+myX = 12.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 10.00  LeftVel= 10.00 , Vel= 10.00 RotVel= 0.00 
+ dist0 = 12.00 , target = 1500.00 
+s2=644.00 , s3=643.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=12.72 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =12.71 ,Yk =0.00
+myX = 13.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 11.00  LeftVel= 11.00 , Vel= 11.00 RotVel= 0.00 
+ dist0 = 13.00 , target = 1500.00 
+s2=643.00 , s3=642.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=13.69 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =13.69 ,Yk =0.00
+myX = 14.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 12.00  LeftVel= 12.00 , Vel= 12.00 RotVel= 0.00 
+ dist0 = 14.00 , target = 1500.00 
+s2=642.00 , s3=640.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=15.65 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =15.64 ,Yk =0.00
+myX = 16.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 12.00  LeftVel= 12.00 , Vel= 12.00 RotVel= 0.00 
+ dist0 = 16.00 , target = 1500.00 
+s2=641.00 , s3=639.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=16.63 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =16.62 ,Yk =0.00
+myX = 17.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 13.00  LeftVel= 13.00 , Vel= 13.00 RotVel= 0.00 
+ dist0 = 17.00 , target = 1500.00 
+s2=639.00 , s3=638.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=17.61 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =17.60 ,Yk =0.00
+myX = 18.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 14.00  LeftVel= 14.00 , Vel= 14.00 RotVel= 0.00 
+ dist0 = 18.00 , target = 1500.00 
+s2=638.00 , s3=637.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=18.58 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =18.58 ,Yk =0.00
+myX = 20.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 14.00  LeftVel= 14.00 , Vel= 14.00 RotVel= 0.00 
+ dist0 = 20.00 , target = 1500.00 
+s2=637.00 , s3=635.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=20.54 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =20.53 ,Yk =0.00
+myX = 21.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 16.00  LeftVel= 16.00 , Vel= 16.00 RotVel= 0.00 
+ dist0 = 21.00 , target = 1500.00 
+s2=635.00 , s3=633.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=22.50 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =22.48 ,Yk =0.00
+myX = 23.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 16.00  LeftVel= 16.00 , Vel= 16.00 RotVel= 0.00 
+ dist0 = 23.00 , target = 1500.00 
+s2=634.00 , s3=632.00  ,,  Ds2=0.00   Ds3=0.98  
+X_sonar=23.48 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =23.47 ,Yk =0.00
+myX = 25.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 17.00  LeftVel= 17.00 , Vel= 17.00 RotVel= 0.00 
+ dist0 = 25.00 , target = 1500.00 
+s2=632.00 , s3=630.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=25.43 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =25.42 ,Yk =0.00
+myX = 26.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 18.00  LeftVel= 18.00 , Vel= 18.00 RotVel= 0.00 
+ dist0 = 26.00 , target = 1500.00 
+s2=630.00 , s3=628.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=27.39 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =27.38 ,Yk =0.00
+myX = 28.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 19.00  LeftVel= 19.00 , Vel= 19.00 RotVel= 0.00 
+ dist0 = 28.00 , target = 1500.00 
+s2=628.00 , s3=626.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=29.34 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =29.33 ,Yk =0.00
+myX = 30.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 20.00  LeftVel= 20.00 , Vel= 20.00 RotVel= 0.00 
+ dist0 = 30.00 , target = 1500.00 
+s2=626.00 , s3=624.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=31.30 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =31.29 ,Yk =0.00
+myX = 33.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 22.00  LeftVel= 22.00 , Vel= 22.00 RotVel= 0.00 
+ dist0 = 33.00 , target = 1500.00 
+s2=624.00 , s3=622.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=33.26 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =33.25 ,Yk =0.00
+myX = 35.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 22.00  LeftVel= 22.00 , Vel= 22.00 RotVel= 0.00 
+ dist0 = 35.00 , target = 1500.00 
+s2=622.00 , s3=619.00  ,,  Ds2=0.00   Ds3=2.93  
+X_sonar=36.19 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =36.18 ,Yk =0.00
+myX = 37.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 24.00  LeftVel= 24.00 , Vel= 24.00 RotVel= 0.00 
+ dist0 = 37.00 , target = 1500.00 
+s2=619.00 , s3=617.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=38.15 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =38.14 ,Yk =0.00
+myX = 40.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 25.00  LeftVel= 25.00 , Vel= 25.00 RotVel= 0.00 
+ dist0 = 40.00 , target = 1500.00 
+s2=617.00 , s3=615.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=40.10 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =40.10 ,Yk =0.00
+myX = 43.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 27.00  LeftVel= 27.00 , Vel= 27.00 RotVel= 0.00 
+ dist0 = 43.00 , target = 1500.00 
+s2=614.00 , s3=611.00  ,,  Ds2=0.00   Ds3=3.91  
+X_sonar=44.02 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =44.00 ,Yk =0.00
+myX = 45.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 28.00  LeftVel= 28.00 , Vel= 28.00 RotVel= 0.00 
+ dist0 = 45.00 , target = 1500.00 
+s2=612.00 , s3=609.00  ,,  Ds2=0.00   Ds3=1.96  
+X_sonar=45.97 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =45.96 ,Yk =0.00
+myX = 48.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 30.00  LeftVel= 30.00 , Vel= 30.00 RotVel= 0.00 
+ dist0 = 48.00 , target = 1500.00 
+s2=609.00 , s3=606.00  ,,  Ds2=0.00   Ds3=2.93  
+X_sonar=48.91 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =48.90 ,Yk =0.00
+myX = 52.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 32.00  LeftVel= 32.00 , Vel= 32.00 RotVel= 0.00 
+ dist0 = 52.00 , target = 1500.00 
+s2=605.00 , s3=602.00  ,,  Ds2=0.00   Ds3=3.91  
+X_sonar=52.82 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =52.80 ,Yk =0.00
+myX = 55.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 34.00  LeftVel= 34.00 , Vel= 34.00 RotVel= 0.00 
+ dist0 = 55.00 , target = 1500.00 
+s2=603.00 , s3=599.00  ,,  Ds2=0.00   Ds3=2.93  
+X_sonar=55.75 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =55.74 ,Yk =0.00
+myX = 59.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 35.00  LeftVel= 35.00 , Vel= 35.00 RotVel= 0.00 
+ dist0 = 59.00 , target = 1500.00 
+s2=599.00 , s3=595.00  ,,  Ds2=0.00   Ds3=3.91  
+X_sonar=59.67 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =59.65 ,Yk =0.00
+myX = 59.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 35.00  LeftVel= 35.00 , Vel= 35.00 RotVel= 0.00 
+ dist0 = 59.00 , target = 1500.00 
+s2=595.00 , s3=595.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=59.67 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =59.69 ,Yk =0.00
+myX = 62.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 37.00  LeftVel= 37.00 , Vel= 37.00 RotVel= 0.00 
+ dist0 = 62.00 , target = 1500.00 
+s2=591.00 , s3=591.00  ,,  Ds2=0.00   Ds3=3.91  
+X_sonar=63.58 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =63.60 ,Yk =0.00
+myX = 66.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 40.00  LeftVel= 40.00 , Vel= 40.00 RotVel= 0.00 
+ dist0 = 66.00 , target = 1500.00 
+s2=587.00 , s3=587.00  ,,  Ds2=0.00   Ds3=3.91  
+X_sonar=67.49 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =67.51 ,Yk =0.00
+myX = 71.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 44.00  LeftVel= 44.00 , Vel= 44.00 RotVel= 0.00 
+ dist0 = 71.00 , target = 1500.00 
+s2=582.00 , s3=583.00  ,,  Ds2=0.00   Ds3=3.91  
+X_sonar=71.40 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =71.43 ,Yk =0.00
+myX = 75.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 44.00  LeftVel= 44.00 , Vel= 44.00 RotVel= 0.00 
+ dist0 = 75.00 , target = 1500.00 
+s2=578.00 , s3=578.00  ,,  Ds2=0.00   Ds3=4.89  
+X_sonar=76.30 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =76.31 ,Yk =0.00
+myX = 80.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 46.00  LeftVel= 46.00 , Vel= 46.00 RotVel= 0.00 
+ dist0 = 80.00 , target = 1500.00 
+s2=573.00 , s3=568.00  ,,  Ds2=0.00   Ds3=9.78  
+X_sonar=86.08 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =86.04 ,Yk =0.00
+myX = 85.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 49.00  LeftVel= 49.00 , Vel= 49.00 RotVel= 0.00 
+ dist0 = 85.00 , target = 1500.00 
+s2=568.00 , s3=568.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=86.08 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =86.09 ,Yk =0.00
+myX = 90.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 52.00  LeftVel= 52.00 , Vel= 52.00 RotVel= 0.00 
+ dist0 = 90.00 , target = 1500.00 
+s2=563.00 , s3=563.00  ,,  Ds2=0.00   Ds3=4.89  
+X_sonar=90.97 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =90.99 ,Yk =0.00
+myX = 96.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 55.00  LeftVel= 55.00 , Vel= 55.00 RotVel= 0.00 
+ dist0 = 96.00 , target = 1500.00 
+s2=557.00 , s3=557.00  ,,  Ds2=0.00   Ds3=5.87  
+X_sonar=96.84 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =96.85 ,Yk =0.00
+myX = 101.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 58.00  LeftVel= 58.00 , Vel= 58.00 RotVel= 0.00 
+ dist0 = 101.00 , target = 1500.00 
+s2=551.00 , s3=551.00  ,,  Ds2=0.00   Ds3=5.87  
+X_sonar=102.71 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =102.72 ,Yk =0.00
+myX = 108.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 62.00  LeftVel= 62.00 , Vel= 62.00 RotVel= 0.00 
+ dist0 = 108.00 , target = 1500.00 
+s2=545.00 , s3=545.00  ,,  Ds2=0.00   Ds3=5.87  
+X_sonar=108.57 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =108.59 ,Yk =0.00
+myX = 114.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 65.00  LeftVel= 65.00 , Vel= 65.00 RotVel= 0.00 
+ dist0 = 114.00 , target = 1500.00 
+s2=538.00 , s3=538.00  ,,  Ds2=0.00   Ds3=6.85  
+X_sonar=115.42 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =115.43 ,Yk =0.00
+myX = 121.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 69.00  LeftVel= 69.00 , Vel= 69.00 RotVel= 0.00 
+ dist0 = 121.00 , target = 1500.00 
+s2=531.00 , s3=531.00  ,,  Ds2=0.00   Ds3=6.85  
+X_sonar=122.27 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =122.28 ,Yk =0.00
+myX = 128.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 72.00  LeftVel= 72.00 , Vel= 72.00 RotVel= 0.00 
+ dist0 = 128.00 , target = 1500.00 
+s2=524.00 , s3=523.00  ,,  Ds2=0.00   Ds3=7.83  
+X_sonar=130.09 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =130.10 ,Yk =0.00
+myX = 136.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 77.00  LeftVel= 77.00 , Vel= 77.00 RotVel= 0.00 
+ dist0 = 136.00 , target = 1500.00 
+s2=516.00 , s3=516.00  ,,  Ds2=0.00   Ds3=6.85  
+X_sonar=136.94 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =136.96 ,Yk =0.00
+myX = 144.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 81.00  LeftVel= 81.00 , Vel= 81.00 RotVel= 0.00 
+ dist0 = 144.00 , target = 1500.00 
+s2=507.00 , s3=507.00  ,,  Ds2=0.00   Ds3=8.80  
+X_sonar=145.74 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =145.75 ,Yk =0.00
+myX = 153.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 86.00  LeftVel= 86.00 , Vel= 86.00 RotVel= 0.00 
+ dist0 = 153.00 , target = 1500.00 
+s2=498.00 , s3=498.00  ,,  Ds2=0.00   Ds3=8.80  
+X_sonar=154.55 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =154.55 ,Yk =0.00
+myX = 162.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 90.00  LeftVel= 90.00 , Vel= 90.00 RotVel= 0.00 
+ dist0 = 162.00 , target = 1500.00 
+s2=489.00 , s3=489.00  ,,  Ds2=0.00   Ds3=8.80  
+X_sonar=163.35 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =163.36 ,Yk =0.00
+myX = 172.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 96.00  LeftVel= 96.00 , Vel= 96.00 RotVel= 0.00 
+ dist0 = 172.00 , target = 1500.00 
+s2=479.00 , s3=479.00  ,,  Ds2=0.00   Ds3=9.78  
+X_sonar=173.13 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =173.14 ,Yk =0.00
+myX = 182.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 101.00  LeftVel= 101.00 , Vel= 101.00 RotVel= 0.00 
+ dist0 = 182.00 , target = 1500.00 
+s2=468.00 , s3=468.00  ,,  Ds2=0.00   Ds3=10.76  
+X_sonar=183.89 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =183.89 ,Yk =0.00
+myX = 193.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 107.00  LeftVel= 107.00 , Vel= 107.00 RotVel= 0.00 
+ dist0 = 193.00 , target = 1500.00 
+s2=468.00 , s3=458.00  ,,  Ds2=0.00   Ds3=9.78  
+X_sonar=193.67 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =193.68 ,Yk =0.00
+myX = 204.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 113.00  LeftVel= 113.00 , Vel= 113.00 RotVel= 0.00 
+ dist0 = 204.00 , target = 1500.00 
+s2=445.00 , s3=433.00  ,,  Ds2=0.00   Ds3=24.45  
+X_sonar=218.13 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =218.01 ,Yk =0.00
+myX = 216.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 120.00  LeftVel= 120.00 , Vel= 120.00 RotVel= 0.00 
+ dist0 = 216.00 , target = 1500.00 
+s2=433.00 , s3=433.00  ,,  Ds2=0.00   Ds3=0.00  
+X_sonar=218.13 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =218.13 ,Yk =0.00
+myX = 229.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 126.00  LeftVel= 126.00 , Vel= 126.00 RotVel= 0.00 
+ dist0 = 229.00 , target = 1500.00 
+s2=433.00 , s3=420.00  ,,  Ds2=0.00   Ds3=12.72  
+X_sonar=230.84 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =230.84 ,Yk =0.00
+myX = 242.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 134.00  LeftVel= 134.00 , Vel= 134.00 RotVel= 0.00 
+ dist0 = 242.00 , target = 1500.00 
+s2=406.00 , s3=406.00  ,,  Ds2=0.00   Ds3=13.69  
+X_sonar=244.54 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =244.53 ,Yk =0.00
+myX = 256.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 141.00  LeftVel= 141.00 , Vel= 141.00 RotVel= 0.00 
+ dist0 = 256.00 , target = 1500.00 
+s2=392.00 , s3=392.00  ,,  Ds2=0.00   Ds3=13.69  
+X_sonar=258.23 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =258.23 ,Yk =0.00
+myX = 272.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 149.00  LeftVel= 149.00 , Vel= 149.00 RotVel= 0.00 
+ dist0 = 272.00 , target = 1500.00 
+s2=376.00 , s3=376.00  ,,  Ds2=0.00   Ds3=15.65  
+X_sonar=273.88 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =273.87 ,Yk =0.00
+myX = 287.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 158.00  LeftVel= 158.00 , Vel= 158.00 RotVel= 0.00 
+ dist0 = 287.00 , target = 1500.00 
+s2=376.00 , s3=360.00  ,,  Ds2=0.00   Ds3=15.65  
+X_sonar=289.53 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =289.52 ,Yk =0.00
+myX = 304.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 166.00  LeftVel= 166.00 , Vel= 166.00 RotVel= 0.00 
+ dist0 = 304.00 , target = 1500.00 
+s2=343.00 , s3=343.00  ,,  Ds2=0.00   Ds3=16.63  
+X_sonar=306.16 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =306.15 ,Yk =0.00
+myX = 322.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 176.00  LeftVel= 176.00 , Vel= 176.00 RotVel= 0.00 
+ dist0 = 322.00 , target = 1500.00 
+s2=343.00 , s3=325.00  ,,  Ds2=0.00   Ds3=17.61  
+X_sonar=323.77 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =323.76 ,Yk =0.00
+myX = 341.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 186.00  LeftVel= 186.00 , Vel= 186.00 RotVel= 0.00 
+ dist0 = 341.00 , target = 1500.00 
+s2=305.00 , s3=305.00  ,,  Ds2=0.00   Ds3=19.56  
+X_sonar=343.33 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =343.31 ,Yk =0.00
+myX = 360.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 196.00  LeftVel= 196.00 , Vel= 196.00 RotVel= 0.00 
+ dist0 = 360.00 , target = 1500.00 
+s2=285.00 , s3=285.00  ,,  Ds2=0.00   Ds3=19.56  
+X_sonar=362.89 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =362.88 ,Yk =0.00
+myX = 381.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 200.00  LeftVel= 200.00 , Vel= 200.00 RotVel= 0.00 
+ dist0 = 381.00 , target = 1500.00 
+s2=285.00 , s3=265.00  ,,  Ds2=0.00   Ds3=19.56  
+X_sonar=382.46 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =382.44 ,Yk =0.00
+myX = 401.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 200.00  LeftVel= 200.00 , Vel= 200.00 RotVel= 0.00 
+ dist0 = 401.00 , target = 1500.00 
+s2=243.00 , s3=244.00  ,,  Ds2=0.00   Ds3=20.54  
+X_sonar=403.00 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =402.98 ,Yk =0.00
+myX = 421.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 200.00  LeftVel= 200.00 , Vel= 200.00 RotVel= 0.00 
+ dist0 = 421.00 , target = 1500.00 
+s2=223.00 , s3=223.00  ,,  Ds2=0.00   Ds3=20.54  
+X_sonar=423.54 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =423.51 ,Yk =0.00
+myX = 441.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 200.00  LeftVel= 200.00 , Vel= 200.00 RotVel= 0.00 
+ dist0 = 441.00 , target = 1500.00 
+s2=202.00 , s3=202.00  ,,  Ds2=0.00   Ds3=20.54  
+X_sonar=444.08 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =444.05 ,Yk =0.00
+myX = 461.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 200.00  LeftVel= 200.00 , Vel= 200.00 RotVel= 0.00 
+ dist0 = 461.00 , target = 1500.00 
+s2=182.00 , s3=182.00  ,,  Ds2=0.00   Ds3=19.56  
+X_sonar=463.64 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =463.62 ,Yk =0.00
+myX = 481.00 , myY = 0.00 , myTheta = 0.00 
+ RightVel= 200.00  LeftVel= 200.00 , Vel= 200.00 RotVel= 0.00 
+ dist0 = 481.00 , target = 1500.00 
+s2=161.00 , s3=161.00  ,,  Ds2=0.00   Ds3=20.54  
+X_sonar=484.18 ,Y_sonar=0.00 ,theta=0.00
+Kalman : Xk =484.15 ,Yk =0.00
+****** there is an obstakle in front of robot ******

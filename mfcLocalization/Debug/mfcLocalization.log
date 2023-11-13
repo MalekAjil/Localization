@@ -1,0 +1,26 @@
+﻿Build started 06/09/2016 10:36:50 م.
+     1>Project "E:\5th Year Project\Localization\mfcLocalization\mfcLocalization.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\MobileRobots\Aria\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\mfcLocalization.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyRobot.cpp mfcLocalization.cpp mfcLocalizationDlg.cpp
+         mfcLocalizationDlg.cpp
+         MyRobot.cpp
+         Generating Code...
+         Compiling...
+         mfcLocalization.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\mfcLocalization.res" mfcLocalization.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\5th Year Project\Localization\Debug\mfcLocalization.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\MobileRobots\Aria\lib" AriaDebugVC12.lib winmm.lib wsock32.lib ws2_32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\5th Year Project\Localization\Debug\mfcLocalization.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\5th Year Project\Localization\Debug\mfcLocalization.lib" /MACHINE:X86 Debug\mfcLocalization.res
+         Debug\Kalman.obj
+         Debug\MATLAB.obj
+         Debug\mfcLocalization.obj
+         Debug\mfcLocalizationDlg.obj
+         Debug\MyRobot.obj
+         Debug\stdafx.obj
+         mfcLocalization.vcxproj -> E:\5th Year Project\Localization\Debug\mfcLocalization.exe
+     1>Done Building Project "E:\5th Year Project\Localization\mfcLocalization\mfcLocalization.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.15
